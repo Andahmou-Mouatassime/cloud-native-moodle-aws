@@ -16,10 +16,7 @@ RUN pecl install redis && docker-php-ext-enable redis
 # 3. Configuration PHP personnalisée
 RUN echo "max_input_vars = 5000" > /usr/local/etc/php/conf.d/moodle-custom.ini
 
-# 4. Copie du code source
-COPY ./moodle_code /var/www/html/
-
-# 5. Préparation du point de montage pour Amazon EFS (Stateless Fargate)
+COPY --chown=www-data:www-data ./moodle_code /var/www/html/
 RUN mkdir -p /var/www/moodledata \
-    && chown -R www-data:www-data /var/www/html /var/www/moodledata \
+    && chown -R www-data:www-data /var/www/moodledata \
     && chmod -R 777 /var/www/moodledata
