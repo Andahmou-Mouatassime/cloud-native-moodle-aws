@@ -1,0 +1,672 @@
+Server Time: Tue, 21 Jul 2026 09:24:04 +0100
+
+
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:05 +0100
+Cron run completed correctly
+Cron completed at 09:24:05 in 0.841161 seconds. Memory used: 19.3 MB. Continuing to check for tasks for 179 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:06 +0100
+Cron run completed correctly
+Cron completed at 09:24:06 in 0.05067 seconds. Memory used: 19.7 MB. Continuing to check for tasks for 178 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:07 +0100
+Cron run completed correctly
+Cron completed at 09:24:07 in 0.02516 seconds. Memory used: 19.7 MB. Continuing to check for tasks for 177 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:08 +0100
+Cron run completed correctly
+Cron completed at 09:24:08 in 0.018829 seconds. Memory used: 19.7 MB. Continuing to check for tasks for 176 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:09 +0100
+Cron run completed correctly
+Cron completed at 09:24:09 in 0.036645 seconds. Memory used: 19.7 MB. Continuing to check for tasks for 175 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:10 +0100
+Cron run completed correctly
+Cron completed at 09:24:10 in 0.011238 seconds. Memory used: 19.7 MB. Continuing to check for tasks for 174 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:11 +0100
+Cron run completed correctly
+Cron completed at 09:24:11 in 0.018443 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 173 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:12 +0100
+Cron run completed correctly
+Cron completed at 09:24:12 in 0.027857 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 172 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:13 +0100
+Cron run completed correctly
+Cron completed at 09:24:13 in 0.021616 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 171 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:14 +0100
+Cron run completed correctly
+Cron completed at 09:24:14 in 0.017931 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 170 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:15 +0100
+Cron run completed correctly
+Cron completed at 09:24:15 in 0.023707 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 169 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:16 +0100
+Cron run completed correctly
+Cron completed at 09:24:16 in 0.013168 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 168 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:17 +0100
+Cron run completed correctly
+Cron completed at 09:24:17 in 0.018629 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 167 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:18 +0100
+Cron run completed correctly
+Cron completed at 09:24:18 in 0.011559 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 166 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:19 +0100
+Cron run completed correctly
+Cron completed at 09:24:19 in 0.015716 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 165 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:20 +0100
+Cron run completed correctly
+Cron completed at 09:24:20 in 0.029642 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 164 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:21 +0100
+Cron run completed correctly
+Cron completed at 09:24:21 in 0.011862 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 163 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:22 +0100
+Cron run completed correctly
+Cron completed at 09:24:22 in 0.021493 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 162 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:23 +0100
+Cron run completed correctly
+Cron completed at 09:24:23 in 0.011935 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 161 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:24 +0100
+Cron run completed correctly
+Cron completed at 09:24:24 in 0.013241 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 160 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:25 +0100
+Cron run completed correctly
+Cron completed at 09:24:25 in 0.012876 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 159 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:26 +0100
+Cron run completed correctly
+Cron completed at 09:24:26 in 0.014701 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 158 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:27 +0100
+Cron run completed correctly
+Cron completed at 09:24:27 in 0.010239 seconds. Memory used: 19.8 MB. Continuing to check for tasks for 157 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:28 +0100
+Cron run completed correctly
+Cron completed at 09:24:28 in 0.011325 seconds. Memory used: 19.9 MB. Continuing to check for tasks for 156 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:29 +0100
+Cron run completed correctly
+Cron completed at 09:24:29 in 0.00973 seconds. Memory used: 19.9 MB. Continuing to check for tasks for 155 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:30 +0100
+Cron run completed correctly
+Cron completed at 09:24:30 in 0.009702 seconds. Memory used: 19.9 MB. Continuing to check for tasks for 154 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:31 +0100
+Cron run completed correctly
+Cron completed at 09:24:31 in 0.01187 seconds. Memory used: 19.9 MB. Continuing to check for tasks for 153 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:32 +0100
+Cron run completed correctly
+Cron completed at 09:24:32 in 0.010936 seconds. Memory used: 19.9 MB. Continuing to check for tasks for 152 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:33 +0100
+Cron run completed correctly
+Cron completed at 09:24:33 in 0.009243 seconds. Memory used: 19.9 MB. Continuing to check for tasks for 151 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:34 +0100
+Cron run completed correctly
+Cron completed at 09:24:34 in 0.010741 seconds. Memory used: 19.9 MB. Continuing to check for tasks for 150 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:36 +0100
+Cron run completed correctly
+Cron completed at 09:24:36 in 0.010021 seconds. Memory used: 19.9 MB. Continuing to check for tasks for 148 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:37 +0100
+Cron run completed correctly
+Cron completed at 09:24:37 in 0.011594 seconds. Memory used: 19.9 MB. Continuing to check for tasks for 147 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:38 +0100
+Cron run completed correctly
+Cron completed at 09:24:38 in 0.013834 seconds. Memory used: 19.9 MB. Continuing to check for tasks for 146 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:39 +0100
+Cron run completed correctly
+Cron completed at 09:24:39 in 0.013457 seconds. Memory used: 19.9 MB. Continuing to check for tasks for 145 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:40 +0100
+Cron run completed correctly
+Cron completed at 09:24:40 in 0.017316 seconds. Memory used: 19.9 MB. Continuing to check for tasks for 144 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:41 +0100
+Cron run completed correctly
+Cron completed at 09:24:41 in 0.015555 seconds. Memory used: 19.9 MB. Continuing to check for tasks for 143 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:42 +0100
+Cron run completed correctly
+Cron completed at 09:24:42 in 0.012905 seconds. Memory used: 19.9 MB. Continuing to check for tasks for 142 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:43 +0100
+Cron run completed correctly
+Cron completed at 09:24:43 in 0.014763 seconds. Memory used: 19.9 MB. Continuing to check for tasks for 141 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:44 +0100
+Cron run completed correctly
+Cron completed at 09:24:44 in 0.012593 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 140 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:45 +0100
+Cron run completed correctly
+Cron completed at 09:24:45 in 0.012216 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 139 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:46 +0100
+Cron run completed correctly
+Cron completed at 09:24:46 in 0.013217 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 138 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:47 +0100
+Cron run completed correctly
+Cron completed at 09:24:47 in 0.013858 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 137 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:48 +0100
+Cron run completed correctly
+Cron completed at 09:24:48 in 0.014071 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 136 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:49 +0100
+Cron run completed correctly
+Cron completed at 09:24:49 in 0.012897 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 135 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:50 +0100
+Cron run completed correctly
+Cron completed at 09:24:50 in 0.014639 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 134 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:51 +0100
+Cron run completed correctly
+Cron completed at 09:24:51 in 0.016109 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 133 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:52 +0100
+Cron run completed correctly
+Cron completed at 09:24:52 in 0.012652 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 132 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:53 +0100
+Cron run completed correctly
+Cron completed at 09:24:53 in 0.014708 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 131 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:54 +0100
+Cron run completed correctly
+Cron completed at 09:24:54 in 0.017683 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 130 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:55 +0100
+Cron run completed correctly
+Cron completed at 09:24:55 in 0.013551 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 129 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:56 +0100
+Cron run completed correctly
+Cron completed at 09:24:56 in 0.014782 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 128 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:57 +0100
+Cron run completed correctly
+Cron completed at 09:24:57 in 0.012876 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 127 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:58 +0100
+Cron run completed correctly
+Cron completed at 09:24:58 in 0.012955 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 126 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:24:59 +0100
+Cron run completed correctly
+Cron completed at 09:24:59 in 0.01473 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 125 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:00 +0100
+Cron run completed correctly
+Cron completed at 09:25:00 in 0.012205 seconds. Memory used: 20.0 MB. Continuing to check for tasks for 124 more seconds.
+Execute scheduled task: Cleanup contexts (core\task\context_cleanup_task)
+... started 09:25:01. Current memory use 20.7 MB.
+ Cleaned up context instances
+... used 10 dbqueries
+... used 0.033000946044922 seconds
+... used 22.7 MB peak memory
+Scheduled task complete: Cleanup contexts (core\task\context_cleanup_task)
+Execute scheduled task: Add award badges adhoc tasks (core\task\badges_cron_task)
+... started 09:25:01. Current memory use 22.0 MB.
+0 adhoc badge tasks were added
+... used 1 dbqueries
+... used 0.012356042861938 seconds
+... used 22.6 MB peak memory
+Scheduled task complete: Add award badges adhoc tasks (core\task\badges_cron_task)
+Execute scheduled task: Background processing for sending badges notifications (core\task\badges_message_task)
+... started 09:25:01. Current memory use 22.4 MB.
+Sending scheduled badge notifications.
+... used 1 dbqueries
+... used 0.0006248950958252 seconds
+... used 22.4 MB peak memory
+Scheduled task complete: Background processing for sending badges notifications (core\task\badges_message_task)
+Execute scheduled task: Background processing for SCORM (mod_scorm\task\cron_task)
+... started 09:25:01. Current memory use 22.5 MB.
+... used 0 dbqueries
+... used 0.01233696937561 seconds
+... used 23.5 MB peak memory
+Scheduled task complete: Background processing for SCORM (mod_scorm\task\cron_task)
+Execute scheduled task: Process bulk caching (tool_brickfield\task\bulk_process_caches)
+... started 09:25:01. Current memory use 22.7 MB.
+... used 3 dbqueries
+... used 0.0074319839477539 seconds
+... used 23.0 MB peak memory
+Scheduled task complete: Process bulk caching (tool_brickfield\task\bulk_process_caches)
+Execute scheduled task: Send new user passwords (core\task\send_new_user_passwords_task)
+... started 09:25:01. Current memory use 23.2 MB.
+... used 1 dbqueries
+... used 0.00078201293945312 seconds
+... used 23.2 MB peak memory
+Scheduled task complete: Send new user passwords (core\task\send_new_user_passwords_task)
+Execute scheduled task: Calculate regular completion data (core\task\completion_regular_task)
+... started 09:25:01. Current memory use 23.2 MB.
+Aggregating completions
+... used 6 dbqueries
+... used 0.076534986495972 seconds
+... used 25.2 MB peak memory
+Scheduled task complete: Calculate regular completion data (core\task\completion_regular_task)
+Execute scheduled task: Forum mailings and maintenance jobs (mod_forum\task\cron_task)
+... started 09:25:01. Current memory use 26.1 MB.
+Removing old digest records from 7 days ago.
+Removed all old digest records.
+Fetching unmailed posts.
+  No posts found.
+... used 2 dbqueries
+... used 0.0029599666595459 seconds
+... used 26.2 MB peak memory
+Scheduled task complete: Forum mailings and maintenance jobs (mod_forum\task\cron_task)
+Execute scheduled task: Incoming email pickup (tool_messageinbound\task\pickup_task)
+... started 09:25:01. Current memory use 26.2 MB.
+Inbound Message not fully configured - exiting early.
+... used 0 dbqueries
+... used 0.030240058898926 seconds
+... used 27.5 MB peak memory
+Scheduled task complete: Incoming email pickup (tool_messageinbound\task\pickup_task)
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:01 +0100
+Cron run completed correctly
+Cron completed at 09:25:01 in 0.440684 seconds. Memory used: 27.2 MB. Continuing to check for tasks for 123 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:02 +0100
+Cron run completed correctly
+Cron completed at 09:25:02 in 0.01317 seconds. Memory used: 27.2 MB. Continuing to check for tasks for 122 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:03 +0100
+Cron run completed correctly
+Cron completed at 09:25:03 in 0.021929 seconds. Memory used: 27.2 MB. Continuing to check for tasks for 121 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:04 +0100
+Cron run completed correctly
+Cron completed at 09:25:04 in 0.01218 seconds. Memory used: 27.2 MB. Continuing to check for tasks for 120 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:05 +0100
+Cron run completed correctly
+Cron completed at 09:25:05 in 0.014412 seconds. Memory used: 27.2 MB. Continuing to check for tasks for 119 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:06 +0100
+Cron run completed correctly
+Cron completed at 09:25:06 in 0.017954 seconds. Memory used: 27.2 MB. Continuing to check for tasks for 118 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:07 +0100
+Cron run completed correctly
+Cron completed at 09:25:07 in 0.016607 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 117 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:08 +0100
+Cron run completed correctly
+Cron completed at 09:25:08 in 0.021161 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 116 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:09 +0100
+Cron run completed correctly
+Cron completed at 09:25:09 in 0.013761 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 115 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:10 +0100
+Cron run completed correctly
+Cron completed at 09:25:10 in 0.015768 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 114 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:11 +0100
+Cron run completed correctly
+Cron completed at 09:25:11 in 0.012633 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 113 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:12 +0100
+Cron run completed correctly
+Cron completed at 09:25:12 in 0.013034 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 112 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:13 +0100
+Cron run completed correctly
+Cron completed at 09:25:14 in 0.011998 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 110 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:15 +0100
+Cron run completed correctly
+Cron completed at 09:25:15 in 0.016407 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 109 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:16 +0100
+Cron run completed correctly
+Cron completed at 09:25:16 in 0.017072 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 108 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:17 +0100
+Cron run completed correctly
+Cron completed at 09:25:17 in 0.013352 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 107 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:18 +0100
+Cron run completed correctly
+Cron completed at 09:25:18 in 0.029307 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 106 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:19 +0100
+Cron run completed correctly
+Cron completed at 09:25:19 in 0.020004 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 105 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:20 +0100
+Cron run completed correctly
+Cron completed at 09:25:20 in 0.019474 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 104 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:21 +0100
+Cron run completed correctly
+Cron completed at 09:25:21 in 0.028257 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 103 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:22 +0100
+Cron run completed correctly
+Cron completed at 09:25:22 in 0.020496 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 102 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:23 +0100
+Cron run completed correctly
+Cron completed at 09:25:23 in 0.014007 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 101 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:24 +0100
+Cron run completed correctly
+Cron completed at 09:25:24 in 0.013009 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 100 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:25 +0100
+Cron run completed correctly
+Cron completed at 09:25:25 in 0.011647 seconds. Memory used: 27.3 MB. Continuing to check for tasks for 99 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:26 +0100
+Cron run completed correctly
+Cron completed at 09:25:26 in 0.014422 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 98 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:27 +0100
+Cron run completed correctly
+Cron completed at 09:25:27 in 0.013166 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 97 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:28 +0100
+Cron run completed correctly
+Cron completed at 09:25:28 in 0.012304 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 96 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:29 +0100
+Cron run completed correctly
+Cron completed at 09:25:29 in 0.013453 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 95 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:30 +0100
+Cron run completed correctly
+Cron completed at 09:25:30 in 0.01709 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 94 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:31 +0100
+Cron run completed correctly
+Cron completed at 09:25:31 in 0.016108 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 93 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:32 +0100
+Cron run completed correctly
+Cron completed at 09:25:32 in 0.01937 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 92 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:33 +0100
+Cron run completed correctly
+Cron completed at 09:25:33 in 0.024829 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 91 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:34 +0100
+Cron run completed correctly
+Cron completed at 09:25:34 in 0.016204 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 90 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:35 +0100
+Cron run completed correctly
+Cron completed at 09:25:35 in 0.022454 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 89 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:36 +0100
+Cron run completed correctly
+Cron completed at 09:25:36 in 0.023977 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 88 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:37 +0100
+Cron run completed correctly
+Cron completed at 09:25:37 in 0.017133 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 87 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:38 +0100
+Cron run completed correctly
+Cron completed at 09:25:38 in 0.014028 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 86 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:39 +0100
+Cron run completed correctly
+Cron completed at 09:25:39 in 0.013792 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 85 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:40 +0100
+Cron run completed correctly
+Cron completed at 09:25:40 in 0.01114 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 84 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:41 +0100
+Cron run completed correctly
+Cron completed at 09:25:41 in 0.010073 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 83 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:42 +0100
+Cron run completed correctly
+Cron completed at 09:25:42 in 0.010429 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 82 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:43 +0100
+Cron run completed correctly
+Cron completed at 09:25:43 in 0.011828 seconds. Memory used: 27.4 MB. Continuing to check for tasks for 81 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:44 +0100
+Cron run completed correctly
+Cron completed at 09:25:44 in 0.014227 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 80 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:45 +0100
+Cron run completed correctly
+Cron completed at 09:25:45 in 0.011314 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 79 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:46 +0100
+Cron run completed correctly
+Cron completed at 09:25:46 in 0.014281 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 78 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:47 +0100
+Cron run completed correctly
+Cron completed at 09:25:47 in 0.014846 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 77 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:48 +0100
+Cron run completed correctly
+Cron completed at 09:25:48 in 0.014626 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 76 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:49 +0100
+Cron run completed correctly
+Cron completed at 09:25:49 in 0.01767 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 75 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:50 +0100
+Cron run completed correctly
+Cron completed at 09:25:50 in 0.010488 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 74 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:51 +0100
+Cron run completed correctly
+Cron completed at 09:25:51 in 0.014348 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 73 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:52 +0100
+Cron run completed correctly
+Cron completed at 09:25:52 in 0.012561 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 72 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:53 +0100
+Cron run completed correctly
+Cron completed at 09:25:53 in 0.012078 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 71 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:54 +0100
+Cron run completed correctly
+Cron completed at 09:25:54 in 0.01293 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 70 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:55 +0100
+Cron run completed correctly
+Cron completed at 09:25:55 in 0.013916 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 69 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:56 +0100
+Cron run completed correctly
+Cron completed at 09:25:56 in 0.012716 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 68 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:57 +0100
+Cron run completed correctly
+Cron completed at 09:25:57 in 0.0123 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 67 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:58 +0100
+Cron run completed correctly
+Cron completed at 09:25:58 in 0.013776 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 66 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:25:59 +0100
+Cron run completed correctly
+Cron completed at 09:25:59 in 0.01948 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 65 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:00 +0100
+Cron run completed correctly
+Cron completed at 09:26:00 in 0.016421 seconds. Memory used: 27.5 MB. Continuing to check for tasks for 64 more seconds.
+Execute scheduled task: Background processing for legacy cron in plagiarism plugins (core\task\plagiarism_cron_task)
+... started 09:26:01. Current memory use 27.6 MB.
+... used 0 dbqueries
+... used 0.00020194053649902 seconds
+... used 27.6 MB peak memory
+Scheduled task complete: Background processing for legacy cron in plagiarism plugins (core\task\plagiarism_cron_task)
+Execute scheduled task: Sync external blogs (core\task\blog_cron_task)
+... started 09:26:01. Current memory use 28.0 MB.
+... used 2 dbqueries
+... used 0.01044487953186 seconds
+... used 28.6 MB peak memory
+Scheduled task complete: Sync external blogs (core\task\blog_cron_task)
+Execute scheduled task: Automated backups report (core\task\automated_backup_report_task)
+... started 09:26:01. Current memory use 28.3 MB.
+... used 0 dbqueries
+... used 0.002161979675293 seconds
+... used 29.3 MB peak memory
+Scheduled task complete: Automated backups report (core\task\automated_backup_report_task)
+Execute scheduled task: Forum mailings and maintenance jobs (mod_forum\task\cron_task)
+... started 09:26:01. Current memory use 28.3 MB.
+Removing old digest records from 7 days ago.
+Removed all old digest records.
+Fetching unmailed posts.
+  No posts found.
+... used 2 dbqueries
+... used 0.0022850036621094 seconds
+... used 28.3 MB peak memory
+Scheduled task complete: Forum mailings and maintenance jobs (mod_forum\task\cron_task)
+Execute scheduled task: Background processing for scheduled allocation (workshopallocation_scheduled\task\cron_task)
+... started 09:26:01. Current memory use 30.6 MB.
+... no workshops awaiting scheduled allocation. ... used 1 dbqueries
+... used 0.00097203254699707 seconds
+... used 30.7 MB peak memory
+Scheduled task complete: Background processing for scheduled allocation (workshopallocation_scheduled\task\cron_task)
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:01 +0100
+Cron run completed correctly
+Cron completed at 09:26:02 in 0.200103 seconds. Memory used: 30.6 MB. Continuing to check for tasks for 62 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:03 +0100
+Cron run completed correctly
+Cron completed at 09:26:03 in 0.013037 seconds. Memory used: 30.6 MB. Continuing to check for tasks for 61 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:04 +0100
+Cron run completed correctly
+Cron completed at 09:26:04 in 0.014447 seconds. Memory used: 30.6 MB. Continuing to check for tasks for 60 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:05 +0100
+Cron run completed correctly
+Cron completed at 09:26:05 in 0.016616 seconds. Memory used: 30.6 MB. Continuing to check for tasks for 59 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:06 +0100
+Cron run completed correctly
+Cron completed at 09:26:06 in 0.017874 seconds. Memory used: 30.6 MB. Continuing to check for tasks for 58 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:07 +0100
+Cron run completed correctly
+Cron completed at 09:26:07 in 0.016441 seconds. Memory used: 30.7 MB. Continuing to check for tasks for 57 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:08 +0100
+Cron run completed correctly
+Cron completed at 09:26:08 in 0.014016 seconds. Memory used: 30.7 MB. Continuing to check for tasks for 56 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:09 +0100
+Cron run completed correctly
+Cron completed at 09:26:09 in 0.027202 seconds. Memory used: 30.7 MB. Continuing to check for tasks for 55 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:10 +0100
+Cron run completed correctly
+Cron completed at 09:26:10 in 0.012201 seconds. Memory used: 30.7 MB. Continuing to check for tasks for 54 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:11 +0100
+Cron run completed correctly
+Cron completed at 09:26:11 in 0.047409 seconds. Memory used: 30.7 MB. Continuing to check for tasks for 53 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:12 +0100
+Cron run completed correctly
+Cron completed at 09:26:12 in 0.016479 seconds. Memory used: 30.7 MB. Continuing to check for tasks for 52 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:13 +0100
+Cron run completed correctly
+Cron completed at 09:26:13 in 0.018307 seconds. Memory used: 30.7 MB. Continuing to check for tasks for 51 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:14 +0100
+Cron run completed correctly
+Cron completed at 09:26:14 in 0.015771 seconds. Memory used: 30.7 MB. Continuing to check for tasks for 50 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:15 +0100
+Cron run completed correctly
+Cron completed at 09:26:15 in 0.028671 seconds. Memory used: 30.7 MB. Continuing to check for tasks for 49 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:16 +0100
+Cron run completed correctly
+Cron completed at 09:26:16 in 0.015072 seconds. Memory used: 30.7 MB. Continuing to check for tasks for 48 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:17 +0100
+Cron run completed correctly
+Cron completed at 09:26:17 in 0.016629 seconds. Memory used: 30.7 MB. Continuing to check for tasks for 47 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:18 +0100
+Cron run completed correctly
+Cron completed at 09:26:18 in 0.016672 seconds. Memory used: 30.7 MB. Continuing to check for tasks for 46 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:19 +0100
+Cron run completed correctly
+Cron completed at 09:26:19 in 0.014223 seconds. Memory used: 30.7 MB. Continuing to check for tasks for 45 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:20 +0100
+Cron run completed correctly
+Cron completed at 09:26:20 in 0.015147 seconds. Memory used: 30.7 MB. Continuing to check for tasks for 44 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:21 +0100
+Cron run completed correctly
+Cron completed at 09:26:21 in 0.025746 seconds. Memory used: 30.7 MB. Continuing to check for tasks for 43 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:22 +0100
+Cron run completed correctly
+Cron completed at 09:26:22 in 0.011121 seconds. Memory used: 30.8 MB. Continuing to check for tasks for 42 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:23 +0100
+Cron run completed correctly
+Cron completed at 09:26:23 in 0.026762 seconds. Memory used: 30.8 MB. Continuing to check for tasks for 41 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:24 +0100
+Cron run completed correctly
+Cron completed at 09:26:24 in 0.015383 seconds. Memory used: 30.8 MB. Continuing to check for tasks for 40 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:25 +0100
+Cron run completed correctly
+Cron completed at 09:26:25 in 0.018833 seconds. Memory used: 30.8 MB. Continuing to check for tasks for 39 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:26 +0100
+Cron run completed correctly
+Cron completed at 09:26:26 in 0.014166 seconds. Memory used: 30.8 MB. Continuing to check for tasks for 38 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:27 +0100
+Cron run completed correctly
+Cron completed at 09:26:27 in 0.012858 seconds. Memory used: 30.8 MB. Continuing to check for tasks for 37 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:28 +0100
+Cron run completed correctly
+Cron completed at 09:26:28 in 0.011068 seconds. Memory used: 30.8 MB. Continuing to check for tasks for 36 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:29 +0100
+Cron run completed correctly
+Cron completed at 09:26:29 in 0.012004 seconds. Memory used: 30.8 MB. Continuing to check for tasks for 35 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:30 +0100
+Cron run completed correctly
+Cron completed at 09:26:30 in 0.0089670000000001 seconds. Memory used: 30.8 MB. Continuing to check for tasks for 34 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:31 +0100
+Cron run completed correctly
+Cron completed at 09:26:31 in 0.013665 seconds. Memory used: 30.8 MB. Continuing to check for tasks for 33 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:32 +0100
+Cron run completed correctly
+Cron completed at 09:26:32 in 0.010916 seconds. Memory used: 30.8 MB. Continuing to check for tasks for 32 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:33 +0100
+Cron run completed correctly
+Cron completed at 09:26:33 in 0.012862 seconds. Memory used: 30.8 MB. Continuing to check for tasks for 31 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:34 +0100
+Cron run completed correctly
+Cron completed at 09:26:34 in 0.011671 seconds. Memory used: 30.8 MB. Continuing to check for tasks for 30 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:35 +0100
+Cron run completed correctly
+Cron completed at 09:26:35 in 0.011771 seconds. Memory used: 30.8 MB. Continuing to check for tasks for 29 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:36 +0100
+Cron run completed correctly
+Cron completed at 09:26:36 in 0.013289 seconds. Memory used: 30.8 MB. Continuing to check for tasks for 28 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:37 +0100
+Cron run completed correctly
+Cron completed at 09:26:37 in 0.013699 seconds. Memory used: 30.8 MB. Continuing to check for tasks for 27 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:38 +0100
+Cron run completed correctly
+Cron completed at 09:26:38 in 0.01491 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 26 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:39 +0100
+Cron run completed correctly
+Cron completed at 09:26:39 in 0.011657 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 25 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:40 +0100
+Cron run completed correctly
+Cron completed at 09:26:40 in 0.014067 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 24 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:41 +0100
+Cron run completed correctly
+Cron completed at 09:26:41 in 0.014513 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 23 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:42 +0100
+Cron run completed correctly
+Cron completed at 09:26:42 in 0.013441 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 22 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:43 +0100
+Cron run completed correctly
+Cron completed at 09:26:43 in 0.015061 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 21 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:44 +0100
+Cron run completed correctly
+Cron completed at 09:26:44 in 0.012219 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 20 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:45 +0100
+Cron run completed correctly
+Cron completed at 09:26:45 in 0.013066 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 19 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:46 +0100
+Cron run completed correctly
+Cron completed at 09:26:46 in 0.018743 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 18 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:47 +0100
+Cron run completed correctly
+Cron completed at 09:26:47 in 0.01298 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 17 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:48 +0100
+Cron run completed correctly
+Cron completed at 09:26:48 in 0.013727 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 16 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:49 +0100
+Cron run completed correctly
+Cron completed at 09:26:49 in 0.012402 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 15 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:50 +0100
+Cron run completed correctly
+Cron completed at 09:26:50 in 0.013613 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 14 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:51 +0100
+Cron run completed correctly
+Cron completed at 09:26:51 in 0.012683 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 13 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:52 +0100
+Cron run completed correctly
+Cron completed at 09:26:52 in 0.012908 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 12 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:53 +0100
+Cron run completed correctly
+Cron completed at 09:26:53 in 0.015074 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 11 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:54 +0100
+Cron run completed correctly
+Cron completed at 09:26:54 in 0.012505 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 10 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:55 +0100
+Cron run completed correctly
+Cron completed at 09:26:55 in 0.013037 seconds. Memory used: 30.9 MB. Continuing to check for tasks for 9 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:56 +0100
+Cron run completed correctly
+Cron completed at 09:26:56 in 0.01266 seconds. Memory used: 31.0 MB. Continuing to check for tasks for 8 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:57 +0100
+Cron run completed correctly
+Cron completed at 09:26:57 in 0.013741 seconds. Memory used: 31.0 MB. Continuing to check for tasks for 7 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:58 +0100
+Cron run completed correctly
+Cron completed at 09:26:58 in 0.01357 seconds. Memory used: 31.0 MB. Continuing to check for tasks for 6 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:26:59 +0100
+Cron run completed correctly
+Cron completed at 09:26:59 in 0.012815 seconds. Memory used: 31.0 MB. Continuing to check for tasks for 5 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:27:00 +0100
+Cron run completed correctly
+Cron completed at 09:27:00 in 0.012938 seconds. Memory used: 31.0 MB. Continuing to check for tasks for 4 more seconds.
+Execute scheduled task: Automated backups report (core\task\automated_backup_report_task)
+... started 09:27:01. Current memory use 31.0 MB.
+... used 0 dbqueries
+... used 0.00041294097900391 seconds
+... used 31.0 MB peak memory
+Scheduled task complete: Automated backups report (core\task\automated_backup_report_task)
+Execute scheduled task: Forum mailings and maintenance jobs (mod_forum\task\cron_task)
+... started 09:27:02. Current memory use 31.0 MB.
+Removing old digest records from 7 days ago.
+Removed all old digest records.
+Fetching unmailed posts.
+  No posts found.
+... used 2 dbqueries
+... used 0.0017938613891602 seconds
+... used 31.0 MB peak memory
+Scheduled task complete: Forum mailings and maintenance jobs (mod_forum\task\cron_task)
+Execute scheduled task: Updating overdue quiz attempts (mod_quiz\task\update_overdue_attempts)
+... started 09:27:02. Current memory use 31.2 MB.
+  Looking for quiz overdue quiz attempts...
+  Considered 0 attempts in 0 quizzes.
+... used 1 dbqueries
+... used 0.0044989585876465 seconds
+... used 32.2 MB peak memory
+Scheduled task complete: Updating overdue quiz attempts (mod_quiz\task\update_overdue_attempts)
+Execute scheduled task: Background processing for workshop module (mod_workshop\task\cron_task)
+... started 09:27:02. Current memory use 31.2 MB.
+ processing workshop subplugins ...
+... used 1 dbqueries
+... used 0.0011351108551025 seconds
+... used 31.2 MB peak memory
+Scheduled task complete: Background processing for workshop module (mod_workshop\task\cron_task)
+Execute scheduled task: Incoming email pickup (tool_messageinbound\task\pickup_task)
+... started 09:27:02. Current memory use 31.2 MB.
+Inbound Message not fully configured - exiting early.
+... used 0 dbqueries
+... used 0.0025010108947754 seconds
+... used 31.2 MB peak memory
+Scheduled task complete: Incoming email pickup (tool_messageinbound\task\pickup_task)
+Execute scheduled task: Background processing for scheduled allocation (workshopallocation_scheduled\task\cron_task)
+... started 09:27:02. Current memory use 31.2 MB.
+... no workshops awaiting scheduled allocation. ... used 1 dbqueries
+... used 0.0014140605926514 seconds
+... used 31.2 MB peak memory
+Scheduled task complete: Background processing for scheduled allocation (workshopallocation_scheduled\task\cron_task)
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:27:02 +0100
+Cron run completed correctly
+Cron completed at 09:27:02 in 0.295141 seconds. Memory used: 31.2 MB. Continuing to check for tasks for 2 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:27:03 +0100
+Cron run completed correctly
+Cron completed at 09:27:03 in 0.016064 seconds. Memory used: 31.2 MB. Continuing to check for tasks for 1 more seconds.
+Ran 0 adhoc tasks found at Tue, 21 Jul 2026 09:27:04 +0100
+Cron run completed correctly
+Cron completed at 09:27:04 in 0.012716 seconds. Memory used: 31.2 MB.

@@ -1,0 +1,58 @@
+name: Build and Deploy Moodle to AWS ECS
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'terraform/**' # Évite de rebuilder les images si on modifie uniquement Terraform
+
+env:
+  AWS_REGION: us-east-1
+  ECR_PHP_REPO: moodle-pfa-php
+  ECR_NGINX_REPO: moodle-pfa-nginx
+  ECS_CLUSTER: moodle-pfa-cluster # Vérifiez le nom exact de votre cluster dans Terraform
+  ECS_SERVICE: moodle-pfa-service
+
+jobs:
+  deploy:
+    name: Build, Push & Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout du code source
+        uses: actions/checkout@v4
+
+      - name: Configuration des identifiants AWS
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Connexion à Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v2
+
+      - name: Build & Push de l'image PHP
+        env:
+          ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+        run: |
+          docker compose build php
+          docker tag moodle_pfa-php:latest $ECR_REGISTRY/$ECR_PHP_REPO:latest
+          docker push $ECR_REGISTRY/$ECR_PHP_REPO:latest
+
+      - name: Build & Push de l'image Nginx
+        env:
+          ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+        run: |
+          docker compose build nginx
+          docker tag moodle_pfa-nginx:latest $ECR_REGISTRY/$ECR_NGINX_REPO:latest
+          docker push $ECR_REGISTRY/$ECR_NGINX_REPO:latest
+
+      - name: Mise à jour du service ECS Fargate (Rolling Update)
+        run: |
+          aws ecs update-service \
+            --cluster ${{ env.ECS_CLUSTER }} \
+            --service ${{ env.ECS_SERVICE }} \
+            --force-new-deployment

@@ -1,0 +1,20 @@
+moodle_data/
+db-init/
+monitoring/.my.cnf
+.env
+*.tfvars
+*.tfstate*
+.terraform/
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Environnement local
+.env

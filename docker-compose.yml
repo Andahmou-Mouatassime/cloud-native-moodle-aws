@@ -1,0 +1,55 @@
+version: '3.8'
+
+services:
+  # Le serveur Web (Front-end)
+  nginx:
+    build:
+      context: .
+      dockerfile: Dockerfile.nginx
+    ports:
+      - "8081:80"
+    depends_on:
+      - php
+    volumes:
+      - ./moodle_code:/var/www/html
+      - moodledata_local:/var/www/moodledata
+    networks:
+      - moodle-network
+
+  # Le moteur d'exécution (Back-end)
+  php:
+    build:
+      context: .
+      dockerfile: Dockerfile.php
+    environment:
+      - DB_HOST=db
+      - DB_USER=root
+      - DB_PASS=MoodlePFA_2026!SecureDB
+      - DB_NAME=moodledb
+      - WWW_ROOT=http://localhost:8081
+    volumes:
+      - ./moodle_code:/var/www/html
+      - moodledata_local:/var/www/moodledata
+    depends_on:
+      - db
+    networks:
+      - moodle-network
+
+  # La base de données
+  db:
+    image: mariadb:10.11
+    environment:
+      - MARIADB_ROOT_PASSWORD=MoodlePFA_2026!SecureDB
+      - MARIADB_DATABASE=moodledb
+    volumes:
+      - db_data_local:/var/lib/mysql
+    networks:
+      - moodle-network
+
+volumes:
+  moodledata_local:
+  db_data_local:
+
+networks:
+  moodle-network:
+    driver: bridge

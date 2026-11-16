@@ -1,0 +1,10 @@
+FROM nginx:alpine
+
+# Copie de la configuration Nginx
+COPY ./nginx.conf /etc/nginx/conf.d/default.conf
+
+# Copie du code source pour servir les assets statiques
+COPY ./moodle_code /var/www/html/
+
+# Application des droits pour l'utilisateur nginx
+RUN chown -R nginx:nginx /var/www/html/
