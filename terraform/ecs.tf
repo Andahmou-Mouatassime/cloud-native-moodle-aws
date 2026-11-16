@@ -148,3 +148,30 @@ resource "aws_iam_role_policy" "ecs_secrets_policy" {
     ]
   })
 }
+
+#  Cible d'Auto Scaling (Définit les limites min et max de conteneurs)
+resource "aws_appautoscaling_target" "ecs_target" {
+  max_capacity       = 4 # Maximum 4 tâches Fargate en cas de fort trafic
+  min_capacity       = 1 # Minimum 1 tâche pour économiser les coûts au repos
+  resource_id        = "service/${aws_ecs_cluster.main.name}/${aws_ecs_service.moodle.name}"
+  scalable_dimension = "ecs:service:DesiredCount"
+  service_namespace  = "ecs"
+}
+
+#  Politique de Scaling sur le CPU (Ajoute une tâche si CPU moyen > 70%)
+resource "aws_appautoscaling_policy" "ecs_cpu_policy" {
+  name               = "${var.project_name}-cpu-autoscaling"
+  policy_type        = "TargetTrackingScaling"
+  resource_id        = aws_appautoscaling_target.ecs_target.resource_id
+  scalable_dimension = aws_appautoscaling_target.ecs_target.scalable_dimension
+  service_namespace  = aws_appautoscaling_target.ecs_target.service_namespace
+
+  target_tracking_scaling_policy_configuration {
+    predefined_metric_specification {
+      predefined_metric_type = "ECSServiceAverageCPUUtilization"
+    }
+    target_value       = 70.0 # Seuil déclencheur à 70% de CPU
+    scale_in_cooldown  = 300  # Attend 5 min avant de supprimer une tâche devenue inutile
+    scale_out_cooldown = 60   # Attend 1 min avant d'ajouter une nouvelle tâche
+  }
+}
